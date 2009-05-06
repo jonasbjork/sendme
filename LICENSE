@@ -1,0 +1,216 @@
+SendMe skyddas av upphovsrättslagen i Sverige och internationellt.
+
+Jonas Björk <jonas@jonasbjork.net> 2008-2009
+
+SendMe är licensierat enligt EUPL V.1.1 ( http://ec.europa.eu/idabc/servlets/Doc?id=31994 )
+
+
+[Nedan följer EUPL på svenska, bör snyggas till]
+
+Licens till öppen källkod från Europeiska unionen v.1.1
+EUPL © Europeiska gemenskapen 2007
+
+Denna licens till öppen källkod från Europeiska unionen, (”EUPL”)1, avser det verk eller den programvara (enligt definitionen nedan) som tillhandahålls på de villkor som anges i licensen. All användning av verket, som inte är tillåten enligt denna licens, är förbjuden (i den mån användningen i fråga omfattas av en rättighet som tillkommer innehavaren av upphovsrätten till verket).
+
+Originalverket tillhandahålls enligt villkoren i denna licens när licensgivaren (enligt definitionen nedan) har placerat följande meddelande omedelbart efter upphovsrättsmeddelandet avseende originalverket:
+
+	Licensierat enligt EUPL V.1.1
+
+eller på annat sätt har givit uttryck för sin avsikt att licensiera enligt EUPL.
+
+1. Definitioner
+I förevarande licens har följande uttryck nedan angiven innebörd:
+
+– licensen: förevarande licens.
+
+– originalverket eller programvaran: den programvara som sprids och/eller överförs av licensgivaren enligt denna licens, och som, beroende på omständigheterna, är tillgänglig i form av källkod eller exekverbar kod.
+
+– härledda verk: de verk eller den programvara som licenstagaren kan skapa på grundval av originalverket eller nya versioner av detta. I denna licens definieras inte den grad av ändring eller det beroende av det ursprungliga verket som krävs för en klassificering som härlett verk. Detta bestäms enligt den upphovsrättslagstiftning som är tillämplig i det land som anges i artikel 15.
+
+– verket: originalverket och/eller från detta härledda verk.
+
+– källkoden: den för människan läsbara formen av verket, som lättast kan granskas och ändras av människor.
+
+– den exekverbara koden: all kod som i allmänhet kompilerats och som är avsedd att läsas som ett program av en dator.
+
+– licensgivaren: den fysiska eller juridiska person som sprider och/eller överför det verk som licensen gäller.
+
+– bidragslämnare: en fysisk eller juridisk person som bearbetar det verk licensen gäller, eller på annat sätt bidrar till att skapa ett härlett verk.
+
+– licenstagaren eller ”du”: en fysisk eller juridisk person som använder programvaran enligt villkoren i licensen.
+
+– spridning och/eller överföring: varje handling som syftar till att sälja, ge, låna ut, hyra ut, distribuera, överföra, sända eller på annat sätt, online eller offline, göra kopior av verket tillgängliga eller ge tillgång till dess väsentliga funktioner för en annan fysisk eller juridisk person.
+
+2. Räckvidden av de rättigheter som beviljas enligt licensen
+Licensgivaren ger dig härmed en världsomfattande, royaltyfri, icke exklusiv licens,
+som kan licensieras vidare och som ger dig rätt att under giltighetstiden av den
+upphovsrätt som gäller för originalverket göra följande:
+- använda verket i alla sammanhang och för alla ändamål,
+- mångfaldiga verket,
+- ändra originalverket och framställa härledda verk på grundval av verket,
+- göra verket tillgängligt för allmänheten, vilket, beroende på omständigheterna,
+inkluderar en rätt att överföra eller visa det, eller kopior av det, för
+allmänheten och att framföra verket offentligt,
+- sprida verket eller kopior av detta,
+- låna eller hyra ut verket eller kopior av detta,
+- underlicensiera rättigheter till verket eller kopior av detta.
+Dessa rättigheter kan utövas på valfritt lagringsmedium, underlag, och format,
+oberoende av om det är känt nu eller kommer att uppfinnas i framtiden, i den mån
+detta är tillåtet enligt gällande rätt.
+I de länder där ideella rättigheter är tillämpliga frånsäger sig licensgivaren sin rätt att
+utöva sina ideella rättigheter, i den mån detta är rättsligt tillåtet, för att göra licensen
+till de ovan angivna ekonomiska rättigheterna verkningsfull.
+Licensgivaren beviljar licenstagaren en royaltyfri, icke-exklusiv nyttjanderätt till
+eventuella patent som innehas av licensgivaren i den mån det är nödvändigt för att dra
+nytta av de rättigheter till verket som medges enligt denna licens.
+3. Tillhandahållande av källkod
+Licensgivaren kan antingen tillhandahålla verket i form av källkod eller exekverbar
+kod. Om verket tillhandahålls i form av exekverbar kod, tillhandahåller licensgivaren
+dessutom en maskinläsbar kopia av källkoden till verket tillsammans med varje kopia
+av verket som licensgivaren sprider eller uppger i ett meddelande som åtföljer
+upphovsrättsmeddelandet på verket en lagringsplats där källkoden enkelt och gratis är
+tillgänglig så länge licensgivaren fortsätter att sprida och/eller överföra verket.
+4. Upphovsrättens inskränkningar
+Ingenting i denna licens är avsett att frånta licenstagaren förmånen av något undantag
+från eller någon inskränkning av de exklusiva rättigheter som tillhör innehavarna av
+rättigheterna till originalverket eller programvaran, till följd av dessa rättigheters
+konsumtion eller av andra gällande inskränkningar av dessa.
+5. Licenstagarens skyldigheter
+Beviljandet av ovan angivna rättigheter är föremål för vissa begränsningar och
+skyldigheter som åläggs licenstagaren. Dessa skyldigheter är följande:
+Droit à la paternité [rätten att bli angiven som upphovsman] och droit au respect
+[respekträtten]: Licenstagaren ska bevara alla meddelanden om upphovsrätt, patent
+eller varumärken intakta, liksom alla meddelanden som hänvisar till licensen och till
+friskrivning från garantier. Licenstagaren måste inkludera en kopia av dessa
+meddelanden och en kopia av licensen i varje kopia av verket som han/hon sprider
+och/eller överför. Licenstagaren måste ombesörja att eventuella härledda verk är
+försedda med tydlig uppgift om att verket har ändrats, samt om tidpunkten för
+ändringen.
+Copyleft-klausul: Om licenstagaren sprider och/eller överför kopior av originalverket
+eller härledda verk som grundas på originalverket, ska denna spridning och/eller
+överföring ske enligt villkoren i denna licens eller i en senare version av denna licens,
+om inte originalverket uttryckligen bara får spridas med stöd av denna version av
+licensen. Licenstagaren (som blir licensgivare) kan inte erbjuda eller ålägga
+ytterligare villkor avseende verket eller härledda verk som ändrar eller begränsar
+villkoren i denna licens.
+Kompatibilitetsklausul: Om licenstagaren sprider och/eller överför härledda verk
+eller kopior av sådana, som grundas på originalverket och annat verk som licensieras
+enligt en kompatibel licens, kan denna spridning och/eller överföring ske enligt
+villkoren i den kompatibla licensen. Med ”kompatibel licens” avses beträffande denna
+klausul de licenser som anges i den bilaga som fogas till licensen. För det fall att
+licenstagarens skyldigheter enligt den kompatibla licensen strider mot hans/hennes
+skyldigheter enligt denna licens, ska skyldigheterna enligt den kompatibla licensen
+äga företräde.
+Tillhandahållande av källkod: Vid spridningen och/eller överföringen av kopior av
+verket ska licenstagaren tillhandahålla en maskinläsbar kopia av källkoden eller ange
+en lagringsplats där denna källkod är lätt och gratis tillgänglig så länge licensgivaren
+fortsätter att sprida och/eller överföra verket.
+Rättsligt skydd: Denna licens medför inte rätt att använda licensgivarens varunamn,
+varumärken, servicemärken eller namn, med undantag för i den omfattning detta
+skäligen och enligt gängse bruk är nödvändigt för att beskriva verkets ursprung och
+återge innehållet i upphovsrättsmeddelandet.
+6. Upphovsmannakedja
+Den ursprungliga licensgivaren garanterar att upphovsrätten till det originalverk som
+beviljas enligt licensen ägs av honom/henne eller licensierats till honom/henne och att
+han/hon har befogenhet och rätt att bevilja licensen.
+Varje bidragslämnare garanterar att upphovsrätten till de ändringar han/hon tillfört
+verket ägs av honom/henne eller licensierats till honom/henne och att han/hon har
+befogenhet och rätt att bevilja licensen.
+Varje gång du godkänner licensen beviljas du, enligt villkoren i licensen, av den
+ursprungliga licensgivaren och därefter följande bidragslämnare en licens till deras
+bidrag till verket.
+7. Friskrivning från garantier
+Verket är ett ännu ej fullbordat verk, som kontinuerligt förbättras av en rad
+bidragslämnare. Det är inte ett färdigställt verk och kan därför innehålla felaktigheter
+och programfel, vilket är kännetecknande för denna typ av programvaruutveckling.
+Av ovanstående skäl tillhandahålls verket enligt licensen i ”befintligt skick” och utan
+någon typ av garanti med avseende på verket, vilket bland annat inbegriper godtagbar
+kvalitet, lämplighet för ett visst ändamål, frånvaro av defekter och felaktigheter,
+exakthet, garantier för att andra immaterialrättigheter än upphovsrätt enligt punkt 6 i
+licensen inte kränks.
+Denna friskrivning är en väsentlig del av licensen och ett villkor för beviljande av
+rättigheter till verket.
+8. Ansvarsfriskrivning
+Med undantag för fall av avsiktliga fel eller skador som direkt drabbar fysiska
+personer, kommer licensgivaren inte i något fall att ansvara för direkt eller indirekt,
+materiell eller ideell skada av något slag som uppstår på grund av licensen eller
+användningen av verket, däribland, men inte endast, ersättning för förlorad goodwill,
+driftstopp, datafel eller störningar, förlust av data eller annan kommersiell skada,
+oberoende av om licensgivaren underrättats om att sådan skada kan inträffa.
+Licensgivaren är dock ansvarig enligt lagstiftning om produktansvar i den mån sådan
+lagstiftning är tillämplig på verket.
+9. Tilläggsavtal
+Vid tillgängliggörandet av originalverket eller härledda verk kan du välja att ingå ett
+tilläggsavtal för att erbjuda eller ta på dig, och ta ut avgift för, support, garantier,
+ersättningsansvar eller annat ansvar och/eller tjänster som är förenliga med licensen.
+Genom att acceptera sådana skyldigheter kan du dock endast agera för din egen
+räkning och på eget ansvar, inte för den ursprunglige licensgivarens eller någon annan
+bidragslämnares räkning, och endast om du förbinder dig att hålla varje
+bidragslämnare skadeslös, med avseende på ansvar som kan uppkomma eller krav
+som kan göras gällande mot denne bidragslämnare på grund av att du godtagit en
+sådan garanti eller ett sådant tilläggsansvar.
+10. Godkännande av licensen
+Du godkänner villkoren i denna licens genom att klicka på ikonen ”Jag godkänner”
+som finns längst ner i ett fönster som visar licenstexten eller genom att bekräfta
+samtycke på annat liknande sätt, i enlighet med bestämmelserna i gällande
+lagstiftning. Genom att klicka på ikonen godkänner du entydigt och oåterkalleligt
+licensen och samtliga villkor i denna.
+På motsvarande sätt godkänner du oåterkalleligt denna licens och villkoren i
+densamma genom att utöva någon av de rättigheter som du tillerkänns genom punkt 2
+i licensen, såsom att använda verket, skapa dina egna härledda verk eller genom att du
+sprider och/eller överför verket eller kopior av detta.
+11. Information till allmänheten
+Om du sprider och/eller överför verket på elektronisk väg (exempelvis genom att
+erbjuda nedladdning av verket på distans) ska du via distributionskanalen eller mediet
+(exempelvis en webbplats) som ett minimum tillhandahålla allmänheten de uppgifter
+som krävs enligt tillämplig lag om licensgivaren, licensen och hur licenstagaren ska
+gå till väga för att få tillgång till, slutföra, lagra och mångfaldiga verket.
+12. Licensens upphörande
+Licensen och rättigheterna enligt denna upphör automatiskt att gälla om licenstagaren
+bryter mot villkoren i licensen.
+Det faktum att licensen således upphör kommer inte att medföra att licenser som
+innehas av en person som tagit emot verket från licensinnehavaren enligt licensen
+upphör att gälla, förutsatt att dessa personer fortsättningsvis till fullo följer
+licensvillkoren.
+13. Övrigt
+Licensen utgör, utan att det påverkar tillämpningen av punkt 9 ovan, det fullständiga
+avtalet mellan parterna med avseende på det verk som licensieras enligt denna.
+Om någon bestämmelse i licensen är ogiltig eller icke är möjlig att verkställa enligt
+tillämplig lag, påverkar detta inte giltigheten eller verkställbarheten av licensen i sin
+helhet. En sådan bestämmelse kommer att tolkas och/eller ändras på det sätt som
+krävs för att den ska bli giltig och verkställbar.
+Europeiska kommissionen har rätt att offentliggöra andra språkversioner och/eller nya
+versioner av licensen, i den mån det är nödvändigt och skäligt, utan att inskränka
+räckvidden av de rättigheter som beviljas enligt licensen. Nya versioner av licensen
+kommer att offentliggöras med ett unikt versionsnummer.
+Alla språkversioner av licensen som Europeiska kommissionen godkänt är likvärdiga.
+Parterna kan fritt välja vilken språkversion de vill utnyttja.
+
+14. Behörig domstol
+Eventuella tvister till följd av tolkningen av licensen som uppkommer mellan Europeiska kommissionen, i egenskap av licensgivare, och en licenstagare, kommer att underställas Europeiska gemenskapernas domstols behörighet i enlighet med artikel 238 i fördraget om upprättandet av Europeiska gemenskapen.
+
+Eventuella tvister som uppkommer mellan parter, med undantag för Europeiska kommissionen, och som följer av tolkningen av licensen, kommer att underställas exklusiv behörighet för den domstol som är behörig på den ort där licensgivaren är bosatt eller bedriver sin huvudsakliga verksamhet.
+
+15. Tillämplig lag
+Licensen ska lyda under lagstiftningen i den medlemsstat i Europeiska unionen där licensgivaren är bosatt eller har sitt säte.
+
+Licensen ska lyda under belgisk lag om
+- en tvist uppstår mellan Europeiska kommissionen, i egenskap av licensgivare,
+och en licenstagare,
+
+- en licensgivare, annan än Europeiska kommissionen, inte är bosatt i eller har
+sitt säte i en medlemsstat i Europeiska unionen.
+
+Bilaga
+”Kompatibla licenser” enligt punkt 5 EUPL är följande:
+
+- GNU General Public License (GNU GPL) v. 2
+
+- Open Software License (OSL) v. 2.1, v. 3.0
+
+- Common Public License v. 1.0
+
+- Eclipse Public License v. 1.0
+
+- Cecill v. 2.0
+
