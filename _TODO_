@@ -1,0 +1,40 @@
+
+==NYA FUNKTIONER==
+
+* Kunna skriva dagbok för eleverna, där lärare ger omdömen och liknande.
+* Uppgiftsbaserad inlämning
+
+showfile.php
+	//FIXED// * fixa med kommentarerna, så det ser snyggare ut.
+	* om en fil har ett - i filnamnet flippar showfile.php ut helt, fixa!
+	* om man redan har kommenterat en fil får man inte kommentera den igen
+	* geshi för att visa källkodsfiler direkt i webbläsaren?
+	* Bädda ihop info om filen + kommentarer i samma tabell
+		
+upload.php
+	//FIXED// * fixa så att det inte går att posta samma fil två gånger.
+	* ordna så att en lärare kan välja vilken elev hon vill ladda upp en fil åt
+	
+
+courses_student.php
+	* snygga till presentationen
+	* man skall inte få upp de kurser man redan är med i i rutan där man väljer en ny kurs att gå med i
+	* när en elev väljer att gå med i en kurs skall läraren få bekräfta det innan eleven hamnar i kursen
+	
+results_student.php
+	* man skall kunna klicka på filnamnet för att få se information om filen, kommentarer t.ex.
+	* saknar kommentaren från läraren
+
+courses_teacher.php
+	* snygga till presentationen, t.ex. tiden :D
+	* man skall kunna döpa om en kurs, om man stavat fel
+	* skall man kunna visa inaktiverade kurser?
+
+index.php
+	* filikonerna skall fixas till, så de använder filändelsen istället för mime-typ
+	--> detta är en funktion i functions.php
+
+register.php
+	//FIXED// * fixa utseendet
+	//FIXED// * ordna en "glömt lösenord?" funktion
+	//FIXED// * se till att e-postadressen lagras och verifieras i små bokstäver!

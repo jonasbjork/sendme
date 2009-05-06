@@ -1,0 +1,221 @@
+
+body {
+	margin: 0;
+	padding: 0;	
+	font-size: 87.5%;
+	
+}
+
+#top {
+	background-color: #000;
+	color: #fefefe;
+	text-align: right;
+	padding-right: 10px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	font-family: verdana, arial, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	
+}
+
+#message {
+	border: 1px solid #00ff00;
+	background-color: #88ff88;
+	color: #000;
+	font-family: verdana, arial, sans-serif;
+	font-weight: bold;
+	padding: 10px;
+}
+
+#content {
+	padding: 10px;
+	
+}
+
+h1 {
+	font-family: verdana, arial, sans-serif;
+	font-size: 26px;
+}
+
+h2 {
+	font-family: verdana, arial, sans-serif;
+	font-size: 16px;
+	color: #000088;
+}
+
+#loginForm {
+	border: 1px solid #888;
+	margin: auto;
+	background-color: #ffdddd;
+	
+}
+
+#loginForm td {
+	font-family: verdana, arial, sans-serif;
+	font-weight: bold;
+	font-size: 0.8em;
+}
+
+#loginForm #userName, #loginForm #userPass {
+	border: 1px solid red;
+	width: 20em;
+	font-size: 0.9em;
+
+}
+
+	
+#uploadForm td {
+	font-family: verdana, arial, sans-serif;
+	font-weight: bold;
+	font-size: 0.8em;
+	vertical-align: top;
+	
+}
+
+#uploadForm select, #uploadForm textarea, #uploadForm input {
+	width: 30em;
+	font-family: verdana, arial, sans-serif;
+	font-weight: bold;
+	font-size: 1em;
+}
+
+
+
+.right {
+	text-align: right;
+}
+
+p {
+	font-family: verdana, arial, sans-serif;
+	font-size: 0.9em;
+
+}
+
+a {
+	color: #3333ff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #ccccff;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #3333ff;
+	text-decoration: none;
+}
+
+#footer {
+	clear: both;
+	margin: 0;
+	padding-top: 10px;
+	text-align: center;
+}
+
+#footer p {
+	margin: 0;
+	padding: 0;
+	font-size: 0.8em;
+	font-weight: bold;
+	color: #888;
+}
+
+#siteMenu {
+	width: 150px;
+	background-color: #dfdfdf;
+	border: 1px solid #bbb;
+	margin-left: 0px;
+	padding-left: 0px;
+	float: left;
+}
+
+#siteMenu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+#siteMenu ul li {
+	padding: 0px;
+	margin: 0px;
+}
+
+#siteMenu a {
+	display: block;
+	background-color: transparent;
+	text-decoration: none;
+	height: 15px;
+	padding: 3px 3px 3px 5px;
+	font-family: verdana, arial, sans-serif;
+	font-size: 0.8em;
+	font-weight: bold;
+	color: #000;
+}
+
+#siteMenu a:hover {
+	background-color: #aaccff;
+}
+
+
+#site {
+	margin-left: 160px;
+	padding-left: 0;
+	padding-right: 2em;
+}
+
+#uploadForm input.submitButton {
+	width: 10em;
+}
+
+#tblResult {
+	font-family: verdana, arial, sans-serif;
+	font-size: 0.8em;
+	font-weight: bold;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+#tblResult td {
+	padding-right: 15px;
+	padding-left: 5px;
+}
+
+#tblResult th {
+	text-align: left;
+	font-size: 1.5em;
+}
+
+div.ig {
+	background-color: red;
+	padding: 3px;
+	font-weight: bold;
+	text-align: center;
+	color: #fff;
+	width: 3em;
+}
+
+div.g {
+	background-color: green;
+	padding: 3px;
+	font-weight: bold;
+	text-align: center;
+	color: #fff;
+	width: 3em;
+}
+
+#tblRattade, #tblOrattade {
+	border: 0;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+#tblRattade td, #tblOrattade td {
+	padding: 0;
+	font-family: verdana, arial, sans-serif;
+	font-size: 0.9em;
+	font-weight: bold;
+	padding-left: 5px;
+	color: #000;
+}
+	

@@ -1,0 +1,26 @@
+<?php
+	/*
+		config.php
+	*/
+	require('smarty/Smarty.class.php');
+	
+	$db_host = "localhost";
+	$db_user = "";
+	$db_pass = "";
+	$db_base = "";
+	
+	$app_url = "http://www.skolstaden.net/sendme/";
+	$userName = @$_SESSION['sendMe']['fullName'];
+	$userId = @$_SESSION['sendMe']['id'];
+	$message = "";
+
+	$smarty = new Smarty;
+	$smarty->template_dir = '/home/jonas/public_html/sendme/smarty/templates';
+	$smarty->compile_dir = '/home/jonas/public_html/sendme/smarty/templates_c';
+	$smarty->cache_dir = '/home/jonas/public_html/sendme/smarty/cache';
+	$smarty->config_dir = '/home/jonas/public_html/sendme/smarty/configs';	
+	
+	
+	$db = mysql_connect($db_host, $db_user, $db_pass) or die("Error: kan inte ansluta till MySQL-servern.");
+	mysql_select_db($db_base) or die("Error: kan inte ansluta till databasen.");
+?>
